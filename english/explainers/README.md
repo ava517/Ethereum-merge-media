@@ -32,3 +32,7 @@ Articles providing accessible explanations for various aspects of The Merge.
 
 ## Delphi Digital
 1) [Managing Expectations Heading Into "The Merge"](https://members.delphidigital.io/reports/managing-expectations-heading-into-the-merge)
+
+## Ledger.com
+1) [Ethereum Merge FAQ](https://support.ledger.com/hc/en-us/articles/6314087134365-Ethereum-Merge-FAQ?docs=true)
+2) [The Ethereum Merge is Happening: Here is What You Shouldn't Miss](https://www.ledger.com/blog/the-ethereum-merge-is-finally-happening-here-is-what-you-shouldnt-miss)
