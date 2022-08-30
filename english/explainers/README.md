@@ -30,6 +30,9 @@ Articles providing accessible explanations for various aspects of The Merge.
 2) [How The Merge Has Evolved](https://tim.mirror.xyz/CHQtTJb1NDxCK41JpULL-zAJe7YOtw-m4UDw6KDju6c)
 3) [From Shadow Forks to Mainnet](https://hackmd.io/@timbeiko/acd/https%3A%2F%2Ftim.mirror.xyz%2FPWFVaHY3Mrx7srarMmuBWya0J5kioR1l2xaH3p5APDk%3Fdisplay%3Diframe)
 
+## Delphi Digital
+1) [Managing Expectations Heading Into "The Merge"](https://members.delphidigital.io/reports/managing-expectations-heading-into-the-merge)
+
 ## Ledger.com
 1) [Ethereum Merge FAQ](https://support.ledger.com/hc/en-us/articles/6314087134365-Ethereum-Merge-FAQ?docs=true)
 2) [The Ethereum Merge is Happening: Here is What You Shouldn't Miss](https://www.ledger.com/blog/the-ethereum-merge-is-finally-happening-here-is-what-you-shouldnt-miss)
