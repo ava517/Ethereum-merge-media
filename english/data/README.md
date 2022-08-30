@@ -15,4 +15,9 @@ and information about slashings (validators punished for malicious activity)
 
 4) [Beaconscan](https://beaconscan.com/) - See details about the Beacon Chain. An alternative for Beaconcha.in, made by Etherscan.
 
+5) [Dune Analytics Dashboard by @sixdegree](https://dune.com/sixdegree/ethereum-the-merge) Another live-updating dashboard with several graphs including:
+    - Total Difficulty vs TTD
+    - Depositor distribution
+    - Top 100 ETH Stake Transactions
+
 Note: While the above sites are generally considered accurate, any of the tools could have bugs and running your own node is the only way to guarantee data. 
