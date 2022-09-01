@@ -6,21 +6,21 @@
 
 ## 有關以太坊合併的資源
 
-* [**音訊**](traditional_chinese/audio) - 來自信譽良好的內容創作者，可提供廣播等音訊資源。
+* [**音訊**](audio) - 來自信譽良好的內容創作者，可提供廣播等音訊資源。
 
-* [**解釋性文章**](traditional_chinese/explainers) - 提供關於合併的相關解說文章。
+* [**解釋性文章**](explainers) - 提供關於合併的相關解說文章。
 
-* [**圖像**](traditional_chinese/graphics) - 圖文類的資源。
+* [**圖像**](graphics) - 圖文類的資源。
 
-* [**即時資訊**](traditional_chinese/data) - 即時查看執行中的共識層資訊。
+* [**即時資訊**](data) - 即時查看執行中的共識層資訊。
 
-* [**音樂**](traditional_chinese/music) - 合併所創作的歌曲，如創作家 Jonathan Mann。
+* [**音樂**](music) - 合併所創作的歌曲，如創作家 Jonathan Mann。
 
-* [**電子報**](traditional_chinese/newsletters) - 提供合併內容的電子報。
+* [**電子報**](newsletters) - 提供合併內容的電子報。
 
-* [**新聞稿**](traditional_chinese/press_releases) - 有關合併的新聞媒體報導。
+* [**新聞稿**](press_releases) - 有關合併的新聞媒體報導。
 
-* [**新聞範例**](traditional_chinese/sample_news) - 媒體平台為了瞭解如何向觀眾敘述這則新聞而觀看的內容與新聞故事範例
+* [**新聞範例**](sample_news) - 媒體平台為了瞭解如何向觀眾敘述這則新聞而觀看的內容與新聞故事範例
 
 
 * [**影像**](英文/影像) - 短影片（5至10秒）介紹有關合併的資訊。
