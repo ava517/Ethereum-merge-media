@@ -25,3 +25,7 @@ Videos containing information about the merge
 ## Finematics
 1) [Ethereum Merge - The Most Anticipated Event In Crypto Explained](https://www.youtube.com/watch?v=EEuPmA8w0Kc)
 2) [Ethereum 2.0 - A Game Changer? Proof Of Stake, The Beacon Chain, Sharding, Docking Explained](https://www.youtube.com/watch?v=ctzGr58_jeI)
+
+## Bankless
+1) [The Ethereum Merge! Everything You Need to Know](https://www.youtube.com/watch?v=gvKstUUdueM)
+2) [Top 5 Misconceptions about the Ethereum Proof of Stake Merge](https://www.youtube.com/watch?v=NKnxO0YKu3w)
